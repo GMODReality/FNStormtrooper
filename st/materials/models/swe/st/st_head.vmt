@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$baseTexture "models/swe/st/st_head_d"
+	$bumpmap "models/swe/st/st_head_n"
+	$envmap "env_cubemap"
+	$envmapfresnel 1
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 5
+	$rimmask 1
+	$phong  1
+	$phongboost 2
+	$phongalbedotint 1
+	$phongexponenttexture "models/swe/st/st_head_e"
+	$phongfresnelranges "[ 0.3 0.7 2 ]"
+}
