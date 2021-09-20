@@ -1,0 +1,13 @@
+"Fortnite.boogie"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"1"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_50dB"
+
+	"rndwave"
+	{
+		"wave"	"player/boogie.wav"
+	}
+}
